@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AppointmentsViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppoitmentMaker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppoitmentViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashdoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FaqForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotificationCreationDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotificationView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlaceOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
